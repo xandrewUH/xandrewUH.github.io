@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/arduinoUno.jpg
 title: ArduinoUno
-permalink: projects/micromouse
+permalink: projects/arduino
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-12
 labels:
