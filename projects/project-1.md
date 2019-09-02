@@ -1,44 +1,28 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/arduinoUno.jpg
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Arduino IDE
+  - Arduino Uno Board
+  - Java and basic coding
+  - Circuit Construction and BredBoarding
+summary: Me and my partner constructed a demo version of a stoplight equipped with sounds unsing an Arduino Uno board, LEDs, wires, a speaker, and some coding.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+The Arduino Uno is a microcontroller board based on the ATmega328P. It has 14 digitalinputs/outputs, 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header and a reset button. The device is specifically for beginners who have no coding experience and no circuit experience. This is because the user is able to do a set of tutorial online for free and download the Arduino IDE to code for free.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This is the link to some of the tutorials andprojects: https://create.arduino.cc/projecthub
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Me and my partner used this to build a stoplight with sound. The purpose is to demonstrate a spcific situation at a stoplight. What if a blind pedestrian is at a 4 way intersection with a stoplight and wants to cross? On the other hand what if a car is waiting at a stoplight and he is not paying attention to the color on the stoplight? 
 
-Here is some code that illustrates how we read values from the line sensors:
+Me and my partner came to the conclusion probably adding a speaker with sound that was integrated with the color on the lights would be beneficial to these situations. For example, if the light was green, the speaker would emit a sound that would tell the car its safe to proceed. If the light was red, the soeaker would emit a a high pitched danger sound to tell the car to not go. 
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+To demonstrate this, we built a small prototype of it on a bredboard. We used three LEDs to symbolize the different stoplight colors and connected them to the Arduino Uno board and a speaker. To make it function, we used the Arduino IDE to code and implement the program into the Arduino Uno.
 
 
 
