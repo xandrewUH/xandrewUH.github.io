@@ -1,61 +1,24 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/gamestore.png
+title: Eclipse Gamestore
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2015-12-03
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Eclipse
+  - Java
+summary: Using Java and the Eclipse IDE, I was able to create Game Store much like the Amazon Store.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/eclipse.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+One of my very first projects in college was a game store service that I implemented using Eclipse and Java. It was made using a bunch GUIs and a series of different processes.
 
-To give you a flavor of the game, here is an excerpt from one run:
+The game store had five stages. The first stage was a welcome message that introducedyou to the game store. The second stage showed the games it had. For each it also showed the important information, like the name, description, the price, and even the conditions they were in. A unique feature to this stage is that you can control the quatity of each you want, like the shopping cart system Amazon has.
 
-<hr>
+The third stage showed what you were buying and confirming if you want it. The fourth stage was a billing stage where it asks for the user's billing information, such as the credit card number, address, etc. It also would also make sure you are using valid information, like your credit card number, before proceeding. Finally, the last stage approves your order and gives you a message confirming this. From here, the user can go back to the welcome page if he wishes to shop more.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+This project was the most important one for me because it was the one that made me truly realized I had an apprecciation for programming. I learned many things from this. These include time management, perserverance, organization, patience, coding tips, and much more. Overall, this was a beneficial experience that changed my life.
 
