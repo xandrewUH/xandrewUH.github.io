@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gameStore.png
+image: images/gameStore.jpg
 title: Eclipse Gamestore
 permalink: projects/eclipse
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: Using Java and the Eclipse IDE, I was able to create Game Store much like the Amazon Store.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/eclipse.png">
+<img class="ui medium right floated rounded image" src="../images/eclipse.jpg">
 
 One of my very first projects in college was a game store service that I implemented using Eclipse and Java. It was made using a bunch GUIs and a series of different processes.
 
