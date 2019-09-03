@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gamestore.png
+image: images/gameStore.png
 title: Eclipse Gamestore
 permalink: projects/eclipse
 # All dates must be YYYY-MM-DD format!
