@@ -59,7 +59,8 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Verilog",
+        "Application Development",
       ]
     },
     {
@@ -69,15 +70,57 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Xilinx Vivado",
+        "Eclipse",
+        "Linux",
+        "Unix",
+        "FileZilla",
+        "MatLab",
+        "Arduino IDE",
+        "Android"
+      ]
+    },
+    {
+     "name": "Hardware and Circuits",
+      "level": "",
+      "keywords": [
+        "Circuit Analysis",
+        "Bredboarding",
+        "Arduino",
+        "Basys3",
+        "FPGA boards",
+        "Microcontrollers",
+        "Microprocessors",
+        "Robotics"
+      ]
+    },  
+    {
+      "name": "More Tools",
+      "level": "",
+      "keywords": [
+        "Google Drive",
+        "Microsoft Office",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft Powerpoint",
+        "Google Docs"
+      ]
+    }, 
+    {
+      "name": "Others",
+      "level": "",
+      "keywords": [
+        "Writing",
+        "Speech",
+        "Math"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2014-08",
       "endDate": "Present",
@@ -88,69 +131,18 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Wasa Electic",
+      "position": "Intern Office Worker",
+      "website": "http://www.wasahawaii.com/",
+      "startDate": "2018-05-26",
+      "endDate": "2018-08-15",
+      "summary": "Office worker",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Look and confirm the electrical devices, conduits, and plans of each of the company's job sites",
+        "Record and measure electrical conduits and devices by inputting the data in Microsoft Office",
+        "Shred papers, print documents, and clean desks",
+        "Look for potential jobs on the forums for the company to bid on"
       ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
