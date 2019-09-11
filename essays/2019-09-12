@@ -1,0 +1,23 @@
+---
+layout: essay
+type: essay
+title: Is Learning a New Language Easy?
+# All dates must be YYYY-MM-DD format!
+date: 2019-09-06
+labels:
+  - JavaScript
+  - Programming
+  - Learning
+  - Language learning
+  - WODs
+---
+
+<img class="ui medium left floated image" src="../images/rosetta.jpg">
+
+Have you ever experienced learning a new language? If you did, you know what it feels like. In the beginning you are introduced to the most basic stuff. It may feel hard to learn at times and you may have to put some time into it to remember all those key phrases and terms. Then towards the end things start to get easier and you are able to do more advanced phrases and vocabulary.
+
+That's how I felt with Javascript. It feels that when you do programming for such a long time, learning a new language like Javascript doesn't seem that hard at all. In fact, the short lessons I did for Javascript felt so fast because it feels like I am doing a cookie cutter version with shortcuts. No need for long syntaxes and functions. No need for long and complicated functions to achieve a task. It feels like Javascript was designed for doing long lines of code in a short amount of time really clearly, especially when you use ES36.
+
+Being my first time using the languagge I learned quite alot. At times, I have to admit I was stuck because the syntax can be to vague sometimes and tutorials don't explain quite well. But for the most part, it was easy, fun, and effective. Like I said before, i got the hang of it pretty quickly due to my prior experience in programing.  I learned how to write simpler code much more efficiently. I also learned new shortcuts that Javascript has that other languages don't which improved the amount of time I implementing these functions. Overall, I think Javascript is a really great language to learn, especially if you are learning to develop software applications like me. It's much more effective than most of the other languages because it lets you write long lines of code faster and efficiently.
+
+To make things better, ICS 314 gives us practice WODS, which are a type of athletic software engineering exercises. I feel that these were very useful to me. I improved the quality of my code and how much time I spent doing it by literally a mile. It was also surprisingly fun and kind of straightforward. Most of all, it really tests how good you are as a programmer. In the future, I look forward to what Software Engineering has to offer, whether it is from the practice WODS, the new languages, or whatever else it may wanna throw at me.
