@@ -29,7 +29,8 @@ the proper guidelines, we will always get the help. Sometimes, they may already 
 StackOverflow.
 
 
-This first example comes from this link: https://stackoverflow.com/questions/57895641/bootstrap-4-text-refuses-to-go-in-the-middle-of-a-div
+This first example comes from this link: 
+https://stackoverflow.com/questions/57895641/bootstrap-4-text-refuses-to-go-in-the-middle-of-a-div
 
 
 This shows what happens when you don't ask the "smart way". The title of the post is "Bootstrap 4 - text refuses to go in the middle of a 
@@ -38,7 +39,8 @@ second thing is the description of his problem. It is very unorganized and confu
 last thing I noticed is the response. Only one person tried to help him and it didn't look like a promising response.
 
 
-The second example comes from this link: https://stackoverflow.com/questions/42283011/add-validation-to-a-mediatr-behavior-pipeline
+The second example comes from this link: 
+https://stackoverflow.com/questions/42283011/add-validation-to-a-mediatr-behavior-pipeline
 
 
 This shows a "smart way" of asking. The title of this post is "Add validation to a MediatR behavior pipeline?". Unlike the last post, the
