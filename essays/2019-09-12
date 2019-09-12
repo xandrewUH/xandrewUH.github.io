@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: What makes a good question?
+title: A Question Doesn't need Questioning?
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-12
 labels:
@@ -21,9 +21,10 @@ So why couldn't you find her in the park? Was her answer too vague? Too simple? 
 her in the first place? Was it the way she told you? The chances are, it was all of it. The communication between you and her was not
 good enough. It was also not clear at all where she was.
 
-As software engineeers, we encounter problems all the time. If we want help, we need to be able communicate our issue in a way that othes
-more experienced will understand, which is referred to as the "smart way". If we follow this guideline, we will always get the help. 
-Sometimes, they may already give you a solution. Let's look at two examples from StackOverflow.
+As software engineeers, we encounter problems all the time. If we want help, we need to be able communicate our issue in a way that others
+more experienced will understand, which is referred to as the "smart way". There is no need to question the "question". If we follow 
+the proper guidelines, we will always get the help. Sometimes, they may already give you a solution. Let's look at two examples from 
+StackOverflow.
 
 This first example comes from this link: https://stackoverflow.com/questions/57895641/bootstrap-4-text-refuses-to-go-in-the-middle-of-a-div
 
