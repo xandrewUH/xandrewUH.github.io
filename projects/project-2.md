@@ -20,7 +20,7 @@ Basys3 is an FPGA for entry level users and is meant be programmed with Xilinx V
 
 In this project, our tean of 3 designed a simple version of the game, Pong, onto a screen using a Basys3 board and an HDMI input. For the one who don't know what Pong is, this link below shows a demonstration of what it is and an exact similarity to what we did.
 
-Pong Game: https://www.youtube.com/watch?v=06W-Jvm5-5o
+Pong Game: <https://www.youtube.com/watch?v=06W-Jvm5-5o>
 
 Since this project was mostly logic and coding, there wasn't really a specific role we all played in this project. We spent all the time trying to code the project, finding the bugs, and running the game together. Through it all, we spent the most time fixing the bugs then actually runnning it.
 
