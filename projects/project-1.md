@@ -21,4 +21,4 @@ In this project, me and my partner developed a mini stoplight with sound in hope
 
 For this project, we both contributed equally to the overall project. In first half, I programmed the board use the Arduino IDE and my parter did the bredboarding. We also periodically checked each others progress to make sure we were on the same page. In the second half, we decided to switch roles so the project didn't feel repetitive and boring. Through this experience, we learned proper teamwork skills and the ability to adapt to many problems that arise from dealing with circuits. We also learned about how powerful the Arduino is and the possibilities that come with it if you are well experienced in the area.
 
-You can learn more about Arduino by exploruing some of its projects and tutorials here: https://create.arduino.cc/projecthub
+You can learn more about Arduino by exploruing some of its projects and tutorials here: <https://create.arduino.cc/projecthub>
