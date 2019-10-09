@@ -25,3 +25,5 @@ When it came to learning UI frameworks, we are like those baby birds. At first i
 
 Just like birds, Semantic UI enables you to expand your wings and fly. Just think about it. Did you want to make that search bar at the front of the Google page? That's possible because Semantic UI provides you code for an input bar. Did you wish you could add that menu bar at the top of Jamba Juice's front page? It provides you with menu bars and options too. What if you wanted add some icons to it but didn't want to go through the effort of resizing it all and finding them? Semantic UI has that covered too and provides you with a enormous library of icons to choose from.
 
+## Long Lasting Benefits
+
