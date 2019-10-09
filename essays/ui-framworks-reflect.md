@@ -12,7 +12,7 @@ labels:
   - IntelliJ
 ---
 
-<img class="ui medium left floated image" src="../images/Rules.jpg">
+<img class="ui medium left floated image" src="../images/eagle.jpg">
 
 ## Baby Birds
 
