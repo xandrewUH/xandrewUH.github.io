@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: With Semantic UI You Fly
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-26
+date: 2019-10-09
 labels:
   - Semantic UI
   - UI Frameworks
