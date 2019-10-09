@@ -21,9 +21,12 @@ When a baby bird is hatched, it depends on its mother to support it. As time pas
 
 When it came to learning UI frameworks, we are like those baby birds. At first it seems very intimidating to replicate all those beautiful features we see on sites daily. As we learned more about it, it motivates us that we can do it. In a way you could say that Semantic UI is just like the mother bird and teaches us to become better and more independent website developers. 
 
-## Expand Your Wing and FLy
+## Expand Your Wing and Fly
 
-Just like birds, Semantic UI enables you to expand your wings and fly. Just think about it. Did you want to make that search bar at the front of the Google page? That's possible because Semantic UI provides you code for an input bar. Did you wish you could add that menu bar at the top of Jamba Juice's front page? It provides you with menu bars and options too. What if you wanted add some icons to it but didn't want to go through the effort of resizing it all and finding them? Semantic UI has that covered too and provides you with a enormous library of icons to choose from.
+Just like birds, Semantic UI enables you to expand your wings and fly. Just think about it. Did you want to make that search bar at the front of the Google page? That's possible because Semantic UI provides you code for an input bar. Did you wish you could add that menu bar at the top of Jamba Juice's front page? It provides you with menu bars and options too. What if you wanted add some icons to it but didn't want to go through the effort of resizing it all and finding them? Semantic UI has that covered too and provides you with a enormous library of icons to choose from. In shprt, Semantic UI enables you do more by giving you the features you need without much trouble.
 
-## Long Lasting Benefits
+## Benefits
 
+## Show What You Are Made Of
+
+So what are you waiting for? Be creative and show the world what you are made of. Land that interview when you apply for that job at Android. Advertise your business with a professional site of your own. Show off your work and act smart around your friends and family. Most importantly, keep learning and improving yourself by being proactive with Semantic UI.
