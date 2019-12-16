@@ -18,7 +18,7 @@ labels:
 summary: Using Web Application Development skills, me and my team were able to create a Hub for all the clubs at the University of Hawaii at Manoa.
 ---
 
-<img src="../images/eclipse.jpg" alt="front image">
+<img src="../images/clubhub.jpg" alt="front image">
 
 ## Description
 
