@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gameStore.jpg
+image: images/clubhub.jpg
 title: Manoa Club Hunt
 permalink: projects/eclipse
 # All dates must be YYYY-MM-DD format!
@@ -18,7 +18,7 @@ labels:
 summary: Using Web Application Development skills, me and my team were able to create a Hub for all the clubs at the University of Hawaii at Manoa.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/eclipse.jpg">
+<img src="../images/eclipse.jpg" alt="front image">
 
 ## Description
 
