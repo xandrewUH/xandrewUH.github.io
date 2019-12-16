@@ -4,13 +4,13 @@
     "label": "Student",
     "picture": "https://xandrewUH.github.io/images/me.jpg",
     "email": "xandrew@hawaii.edu",
-    "phone": "",
+    "phone": "(808) 721-5828",
     "website": "https://xandrewUH.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "95-1177 Anuanu St.",
+      "postalCode": "96789",
+      "city": "Mililani",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "xandrew",
         "url": "http://linkedin.com/in/xandrew-julian-60b36a192/"
-      },
+      }
     ]
   },
   "interests": [
@@ -40,6 +40,11 @@
     },
     {
       "name": "artificial intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "machine learning",
       "keywords": [
       ]
     },
@@ -61,6 +66,7 @@
         "Assembly",
         "Verilog",
         "Application Development",
+        "SQL"
       ]
     },
     {
@@ -78,7 +84,10 @@
         "FileZilla",
         "MatLab",
         "Arduino IDE",
-        "Android"
+        "Android",
+        "IntelliJ",
+        "MongoDB",
+        "Meteor"
       ]
     },
     {
@@ -104,7 +113,10 @@
         "Microsoft Word",
         "Microsoft Excel",
         "Microsoft Powerpoint",
-        "Google Docs"
+        "Google Docs",
+        "Slack",
+        "Skype",
+        "Discord"
       ]
     }, 
     {
@@ -123,8 +135,8 @@
       "area": "Computer Engineering (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2014-08",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2020-05",
+      "gpa": "2.7",
       "courses": [
       ]
     }
@@ -136,12 +148,11 @@
       "website": "http://www.wasahawaii.com/",
       "startDate": "2018-05-26",
       "endDate": "2018-08-15",
-      "summary": "Office worker",
+      "summary": "Electrical Intern",
       "highlights": [
-        "Look and confirm the electrical devices, conduits, and plans of each of the company's job sites",
-        "Record and measure electrical conduits and devices by inputting the data in Microsoft Office",
-        "Shred papers, print documents, and clean desks",
-        "Look for potential jobs on the forums for the company to bid on"
+        "Project Bidder",
+        "Electrical Conduit and Parts Accountant",
+        "Office Worker"
       ]
     }
   ],
