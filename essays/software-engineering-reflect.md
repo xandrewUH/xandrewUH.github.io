@@ -12,7 +12,7 @@ labels:
 
 <img class="ui medium left floated image" src="../images/adventure.jpg">
 
-## An Long Advemnture
+## A Long Adventure
 
 The experience I spent in this class felt like an adventure. At the start I encountered obstacles. I had to learn many concepts to conquer it. As my knowledge started to grow, the old obstacles started to vanish and the new ones started to appear. 
 
