@@ -16,7 +16,7 @@ summary: Using Java and the Eclipse IDE, I was able to create Game Store much li
 
 One of my very first projects in college was a game store service that I implemented using Eclipse and Java. It was made using a bunch GUIs and a series of different processes.
 
-The game store had five stages. The first stage was a welcome message that introducedyou to the game store. The second stage showed the games it had. For each it also showed the important information, like the name, description, the price, and even the conditions they were in. A unique feature to this stage is that you can control the quatity of each you want, like the shopping cart system Amazon has.
+The game store had five stages. The first stage was a welcome message that introduced you to the game store. The second stage showed the games it had. For each it also showed the important information, like the name, description, the price, and even the conditions they were in. A unique feature to this stage is that you can control the quatity of each you want, like the shopping cart system Amazon has.
 
 The third stage showed what you were buying and confirming if you want it. The fourth stage was a billing stage where it asks for the user's billing information, such as the credit card number, address, etc. It also would also make sure you are using valid information, like your credit card number, before proceeding. Finally, the last stage approves your order and gives you a message confirming this. From here, the user can go back to the welcome page if he wishes to shop more.
 
