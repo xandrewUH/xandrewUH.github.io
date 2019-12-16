@@ -10,7 +10,7 @@ labels:
   - Agile Project Management
 ---
 
-<img class="ui medium left floated image" src="../images/iphone.jpg">
+<img class="ui medium left floated image" src="../images/adventure.jpg">
 
 ## An Long Advemnture
 
